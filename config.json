@@ -1,6 +1,1 @@
-{
-	"ip":"MinecraftServer247.aternos.me",
-	"port": "33475",
-	"name": "Minecraft Server",
-	
-}
+{"ip":"MinecraftServer247.aternos.me","name":"Minecraft Server Bot","port":"33475"}
